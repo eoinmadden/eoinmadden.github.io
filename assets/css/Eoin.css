@@ -1949,6 +1949,10 @@ ul.actions li:first-child {
     background: #fff0f8;
     text-align: left;
 }
+.box.style7 {
+    background: #bbffbb;
+    text-align: left;
+}
 
 .box.style1 h3 {
     margin-bottom: 0.5em;
@@ -2076,6 +2080,14 @@ ul.actions li:first-child {
     background-color: #FFF0F0;
     color: #201010;
     text-align: left;
+}
+
+.wrapper.style7 {
+    padding: 2em 0 2em 0;
+    background-image: none;
+    background-color: #ccffcc;
+    color: #201010;
+    text-align: center;
 }
 
 /* Nav */
