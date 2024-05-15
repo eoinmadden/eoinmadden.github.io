@@ -2511,3 +2511,14 @@ iframe.myCoolIframe {
     width: 300px;
     height: 300px;
 }
+
+
+.image-with-text {
+  display: flex;
+  margin-right: 20px; /* adjust as needed */
+  align-items: center;
+}
+.image-with-text img {
+  margin-right: 100px; /* adjust as needed */
+}
+
