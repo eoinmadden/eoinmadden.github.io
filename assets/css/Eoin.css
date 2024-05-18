@@ -2170,11 +2170,11 @@ body > article {
     border-radius: 100%;
     width: 20em;
     height: 20em;
-    margin: 0;
+    margin: 0em;
 }
 
 #top .image img {
-    border-radius: 40%;
+    border-radius: 30%;
 }
 
 #top h1 {
