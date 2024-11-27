@@ -1,28 +1,26 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-    <title>Eoin Madden: Galway East</title>
+    <title>Eoin Madden: Athenry-Oranmore LEA</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,
 				   initial-scale=1, user-scalable=no" />
-    <meta name="description" content="Eoin Madden: Green Party 
-				      candidate for Galway East,
-				      General Election  2024" />
+    <meta name="description" content="Eoin Madden: Green Party LEA 
+				      candidate for Oranmore-Athenry
+				      2024" />
     <meta name="keywords"
 	  content=
 	  "Eoin Madden,
-	   General Election,
-	   GE2024,
-	   Galway East,
+	   Local Election,
+	   LE2024,
+	   Athenry-Oranmore,
 	   Green Party,
 	   Ireland,
 	   Galway East"/>
 
     <meta name="author" content="Eoin Madden" /> 
-    <link rel="stylesheet" href="assets/css/Eoin.css" />
-    <link rel="shortcut icon" type="image/x-icon"
-	  href="https://www.eoinmadden.ie/favicon.ico" />
-  </head>
+    <link rel="stylesheet" href="assets/css/Eoin.css" /> 
+ </head>
   <body class="is-preload">
     <!-- Nav -->
     <nav id="nav">
@@ -42,9 +40,9 @@
       <div class="container">
 	<div class="row">
 	  <div class="col-4 col-5-large col-12-medium">
-	    <span class="image fit">
-	      <img src="images/Headshot-1b.jpg" alt="Photo of Eoin Madden (2024)" />
-	      <!--<img src="images/positive_change.png" alt="Photo of Eoin Madden (2024)" />-->
+	    <span class="image fit"><img src="images/Headshot-1b.jpg"
+					 alt="Photo of Eoin Madden
+					      (2024)" />
 	    </span>
 	  </div>
 	  <div class="col-8 col-7-large col-12-medium">
@@ -52,8 +50,8 @@
 	      <h1><strong>Eoin Madden</strong>.</h1>
 	    </header>
 	     <h3>
-	    Your Galway East Green Party Candidate
-	    for the 2024 General Election.
+	    Your Oranmore-Athenry Green Party Candidate
+	    for 2024 Galway County Council Election.
 	  </h3>
 	  <p  id="priorities"><b>My priorities</b>:
 	      Transport &#8226; Nature &#8226; Health &#8226;
@@ -84,10 +82,10 @@
 	    I'm passionate about building a sustainable future for
 	  our children where they can have homes and have
 	  opportunities to live, work and play.<br/> 
-	    I’m active in my community; whether training kids
+	    I’m active in my local community; whether training kids
 	  at <a href="https://coderdojoathenry.org/">Coder Dojo</a>
 	    and
-	    hurling, organising litter-picks,
+	    hurling, organising litter picks,
 	  secretary of the local hall and playground, PRO of the
 	    Community Alert.
 	  </p>
@@ -121,11 +119,11 @@
 	</div>
 	<div class="col-6 col-6-medium col-12-small">
 	  <article class="box style5">
-	    <span class="image fit">
-	      <!-- <img src="images/EoinStation500.png"  alt="Eoin at station (2024)" />-->
-	      <img src="images/positive_change.png"  alt="Eoin at station (2024)" />
-	      <img src="images/OnTheBorreen1000.jpg"
-		   alt="Eoin on bike (2024)" />
+	    <span class="image fit"><img src="images/OnTheBorreen1000.jpg"
+					 alt="Eoin on bike (2024)" />
+	      	    <span class="image fit">
+	      <img src="images/EoinStation500.png"
+		   alt="Eoin at station (2024)" />
 	    </span>
 
 	  </article>
@@ -196,7 +194,6 @@
 	      </p>
 	    </section>
 	  </div>
-	  <!--
 	  <div class="col-4 col-6-medium col-12-small">
 	    <section class="box style1">
 	      <span class="icon featured iconoir-clock-solid"></span>
@@ -211,7 +208,6 @@
 	      </p>
 	    </section>
 	  </div>
-	  -->
 	  <div class="col-4 col-6-medium col-12-small">
 	    <section class="box style1">
 	      <span class="icon featured
@@ -231,7 +227,7 @@
 		    my <a href="http://eepurl.com/iNAtOk">mailing list</a></li>
 		  <li><a href="https://www.checktheregister.ie">Check if
 		      you are registered to vote</a> and <b>vote on
-		      Friday, 29 November!</b>.
+		      Friday, 7th June!</b>.
 		  </li>
 		</ul>
 	    </section>
@@ -267,7 +263,6 @@
 	      </p>
 	    </article>
 	  </div>
-	  <!--
 	  <div class="col-4 col-6-medium col-12-small">
 	    <article class="box style2">
 	      <a href="https://www.eoinmadden.ie/NewTrains.html" class="image featured">
@@ -284,7 +279,7 @@
 	      </p>
 	    </article>
 	  </div>
-	  -->
+
 	  <div class="col-4 col-6-medium col-12-small">
 
 	    <article class="box style3">
@@ -308,7 +303,7 @@
 		alt="Eoin Madden at a train station"/></a>
 	      <h3><a href="2Euro.html">
 		  Eoin calls for a €2 Euro integrated fare for the
-		  Galway commuters
+		  Galway-Oranmore region
 		</a>
 	      </h3>
 	      <p>
@@ -408,7 +403,6 @@
 	      </p>
 	    </article>
 	  </div>
-	  <!--
 	  <div class="col-4 col-6-medium col-12-small">
 	    <article class="box style6">
 	      <a href="https://www.advertiser.ie/galway/article/134204/greens-step-forward-to-contest-local-elections" class="image featured">
@@ -424,8 +418,7 @@
 	      </p>
 	    </article>
 	  </div>
-	</div>
-	-->
+	</div> <!-- end row -->
 
       </div>
     </article>
